@@ -23,7 +23,7 @@
 
 ### 2c2p (Singapore)
 
-**Senior Software Enginner , iOS (Oct 2012 - Sep 2016)**
+**Senior Software Engineer , iOS (Oct 2012 - Sep 2016)**
 
 - Working for iBanking App
 - Working for Wallet App
@@ -40,7 +40,7 @@
 
 ### Point Star (Singapore)
 
-**Software Enginner, PHP (Oct 2009 - Sep 2010)**
+**Software Engineer, PHP (Oct 2009 - Sep 2010)**
 
 - Using CodeIgniter Framework to develop custom Web App
 - Using Wordpress for building websites
@@ -70,14 +70,10 @@
 ## Skills
 
 - 6 years iOS Development
-- 8 years Web Development
+- 8 years Web Development (2 years for Laravel framework)
 - 2 years Objective-C
 - 4 years Swift
-- Python
-- Javascript
-- Node.js
-- MySQL
-- Mongodb
+- Sometime , I use Python and Node.js for scripting
 
 ## Books
 
